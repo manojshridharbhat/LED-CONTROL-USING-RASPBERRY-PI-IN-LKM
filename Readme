@@ -8,3 +8,4 @@ Connect the LED with a resistor to the pins of raspberry pi (VCC and GND)
 Make file is also given so just execute them with Makeall commamnd 
 and execute the main file using ./filename 
 Application program is also given if necessary
+REFERENCE FOR INSTALLATION PDF IS INLCUDED IN THE ATTACHMENT
